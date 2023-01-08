@@ -1,0 +1,8 @@
+__pycache__
+venv/
+.env
+.idea/
+.vscode/
+Dockerfile
+.dockerignore
+.pytest_cache
